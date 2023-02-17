@@ -7,8 +7,8 @@
 
 -----------------------------------------------------------------------------------------------------------
 
-<h1>Esse projeto foi desenvolvido com as seguintes tecnologias: Html/CSS/JS</h1>
+<h2>Esse projeto foi desenvolvido com as seguintes tecnologias: Html/CSS/JS</h2>
 
-Confira:
+Confira: https://caiomelo10.github.io/Descubra-o-Numero/
 
    <img src="./assets/exemplo.png">
